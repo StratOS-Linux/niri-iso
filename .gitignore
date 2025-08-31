@@ -1,0 +1,4 @@
+output/*
+!output/StratOS-*.iso
+output.bak/
+*.iso
