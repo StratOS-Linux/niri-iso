@@ -27,7 +27,7 @@ dosfstools
 e2fsprogs
 edk2-shell
 efibootmgr
-emacs-lucid-nativecomp
+emacs-pgtk
 espeakup
 ethtool
 exfatprogs
