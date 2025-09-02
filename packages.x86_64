@@ -126,7 +126,7 @@ qemu-guest-agent
 refind
 reflector
 rockers
-rofi
+rofi-wayland
 rsync
 rxvt-unicode-terminfo
 screen
@@ -183,6 +183,7 @@ wvdial
 xdg-desktop-portal-gnome
 xdg-utils
 xfsprogs
+xorg
 xorg-server
 xorg-xauth
 xorg-xwayland
