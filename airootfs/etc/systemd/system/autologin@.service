@@ -3,7 +3,7 @@ Description=Automatic login for user %I
 After=getty@tty1.service
 
 [Service]
-ExecStart=/usr/bin/gnome-session
+ExecStart=/usr/bin/niri-session
 Type=idle
 
 [Install]
