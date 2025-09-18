@@ -76,7 +76,6 @@ linux-firmware-marvell
 livecd-sounds
 lsscsi
 lvm2
-# ly
 lynx
 man-db
 man-pages
@@ -146,6 +145,7 @@ stratos-calamares-config
 stratos-eww-niri-config
 stratos-fish-config
 stratos-fonts
+stratos-grub
 stratos-niri-config
 stratos-rofi-config
 stratos-starship-niri-config
